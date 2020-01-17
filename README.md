@@ -11,11 +11,14 @@ And that's it!
 
 ### How to use
 It's quite simple to use, you drag it from the content browser to the editor window and mess with it from there
+
 You can rotate, scale, and move it and tinker with the settings for what works
+
 Remember, the arrow when not in point attraction mode is the direction of gravity/force
 
 ### Notes to remember
 I'm not responsible for any damage done to your hardware, software, or project by the asset, even though no such damage should happen, better safe than sorry
+
 In point attraction mode, linear and angular damping don't work right, and I don't know why
 
 ### Anticipated questions and FAQ
