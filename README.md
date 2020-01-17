@@ -29,7 +29,7 @@ You sure can! You can share it too, just be sure to credit me for making the ori
 I'm open to recommendations, but remember I am very inexperienced when it comes to making blueprints, so somethings might not be doable at the time
 
 ##### I found a bug!
-That's not a question
+That's not a question.
 Joking aside, if you've found a bug, please let me know by telling me on Discord or submitting an issue on the GitHub repository
 
 ### Troubleshooting
