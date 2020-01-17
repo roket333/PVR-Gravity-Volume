@@ -1,7 +1,7 @@
 ## Gravity Volume
 Gravity Volume is an asset for Unreal Engine 4.21, designed for Pavlov VR map making, made by Roket Gamer
 
-The Latest version can be found at https://github.com/roket333/PVR-Gravity-Volume/releases/latest
+The Latest version can be found at [this link] (https://github.com/roket333/PVR-Gravity-Volume/releases/latest)
 
 ### How to install
 1. Download the latest release
