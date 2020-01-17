@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+##Gravity Volume
+Gravity Volume is an asset for Unreal Engine 4.21, designed for Pavlov VR map making, made by Roket Gamer
 
-You can use the [editor on GitHub](https://github.com/roket333/PVR-Gravity-Volume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+###How to install
+1. Download the latest release
+2. Open the .zip file
+3. Open your map project and navigate to your UGCXXXXXXXXXX folder (each X representing a number)
+4. If you opened it in UE4, extend the content browser on the right, right-click and click "Show in Explorer"
+5. Drag the files from the .zip into the folder you want them, I recommend using a seperate folder for blueprints
+And that's it!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###How to use
+It's quite simple to use, you drag it from the content browser to the editor window and mess with it from there
+You can rotate, scale, and move it and tinker with the settings for what works
+Remember, the arrow when not in point attraction mode is the direction of gravity/force
 
-### Markdown
+###Notes to remember
+I'm not responsible for any damage done to your hardware, software, or project by the asset, even though no such damage should happen, better safe than sorry
+In point attraction mode, linear and angular damping don't work right, and I don't know why
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###Anticipated questions and FAQ
+#Can I give other people the zip file?
+No, please direct them to this site to download it
 
-```markdown
-Syntax highlighted code block
+#Can I modify your blueprint?
+You sure can! You can share it too, just be sure to credit me for making the original asset
 
-# Header 1
-## Header 2
-### Header 3
+#Can you add X to the asset?
+I'm open to recommendations, but remember I am very inexperienced when it comes to making blueprints, so somethings might not be doable at the time
 
-- Bulleted
-- List
+###Troubleshooting
+#I placed it down but it's not doing anything!
+By default, the force is 200 units per second, so you might have to raise it a bit
 
-1. Numbered
-2. List
+#Players aren't affected by point attraction!
+No, they're not due to me not knowing how to smoothly add force to a pawn, which caused players to teleport to the point of attraction
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/roket333/PVR-Gravity-Volume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#I have a problem that isn't listed here!
+Ping Roket Gamer on the Pavlov VR Discord in #assets and I'll help you however I can
