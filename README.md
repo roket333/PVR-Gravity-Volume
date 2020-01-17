@@ -19,21 +19,21 @@ I'm not responsible for any damage done to your hardware, software, or project b
 In point attraction mode, linear and angular damping don't work right, and I don't know why
 
 ### Anticipated questions and FAQ
-# Can I give other people the zip file?
+###### Can I give other people the zip file?
 No, please direct them to this site to download it
 
-# Can I modify your blueprint?
+###### Can I modify your blueprint?
 You sure can! You can share it too, just be sure to credit me for making the original asset
 
-# Can you add X to the asset?
+###### Can you add X to the asset?
 I'm open to recommendations, but remember I am very inexperienced when it comes to making blueprints, so somethings might not be doable at the time
 
 ### Troubleshooting
-# I placed it down but it's not doing anything!
+###### I placed it down but it's not doing anything!
 By default, the force is 200 units per second, so you might have to raise it a bit
 
-# Players aren't affected by point attraction!
+###### Players aren't affected by point attraction!
 No, they're not due to me not knowing how to smoothly add force to a pawn, which caused players to teleport to the point of attraction
 
-# I have a problem that isn't listed here!
+###### I have a problem that isn't listed here!
 Ping Roket Gamer on the Pavlov VR Discord in #assets and I'll help you however I can
